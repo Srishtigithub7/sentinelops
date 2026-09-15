@@ -1,3 +1,6 @@
+## 📊 Dashboard Preview
+
+![SentinelOps Dashboard](docs/sentinelops-dashboard.png)
 # SentinelOps
 
 ### AI-Powered Production Incident Investigation & Root Cause Analysis
